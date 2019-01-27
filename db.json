@@ -1,0 +1,24 @@
+{
+"product":[
+{"id":1,"name":"White-fronted capuchin","category":"Turquoise"},
+{"id":2,"name":"Lesser flamingo","category":"Fuscia"},
+{"id":3,"name":"Lion, australian sea","category":"Yellow"},
+{"id":4,"name":"Green-winged trumpeter","category":"Purple"},
+{"id":5,"name":"Black-cheeked waxbill","category":"Crimson"},
+{"id":6,"name":"Hedgehog, south african","category":"Turquoise"},
+{"id":7,"name":"Pigeon, wood","category":"Yellow"},
+{"id":8,"name":"Greater blue-eared starling","category":"Aquamarine"},
+{"id":9,"name":"Civet, common palm","category":"Mauv"},
+{"id":10,"name":"Deer, red","category":"Aquamarine"},
+{"id":11,"name":"Brolga crane","category":"Teal"},
+{"id":12,"name":"South American puma","category":"Pink"},
+{"id":13,"name":"African snake (unidentified)","category":"Aquamarine"},
+{"id":14,"name":"Plover, three-banded","category":"Turquoise"},
+{"id":15,"name":"Monkey, bleeding heart","category":"Turquoise"},
+{"id":16,"name":"Puffin, horned","category":"Purple"},
+{"id":17,"name":"Cat, cape wild","category":"Red"},
+{"id":18,"name":"Pigeon, wood","category":"Mauv"},
+{"id":19,"name":"Sockeye salmon","category":"Teal"},
+{"id":20,"name":"Square-lipped rhinoceros","category":"Pink"}
+]
+}
